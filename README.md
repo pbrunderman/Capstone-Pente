@@ -12,7 +12,7 @@ You'll find a few classes inside that drive this application, but the one contai
 This class is what drives the AI decision making entirely. It evaluates all the possible moves for the AI and assigns each possible move a score. 
 The best score is selected and the AI makes their move. 
 
-In almost every game I found that there were multiple equal scoring "best" moves for my AI.So I wanted to evaluate the best of the best moves to push my AI to a higher level. 
+In almost every game I found that there were multiple equal scoring "best" moves for my AI. So I wanted to evaluate the best of the best moves to push my AI to a higher level. 
 Given that a move's score was based entirely on pattern recognition and creating a specific pattern to acheivea favorable position 
 it was challenging to figure out how to determine which move was more valuable.
 
